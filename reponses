@@ -1,0 +1,8 @@
+1 La classe ne respecte pas le principe SRP car elle a deux résponsabilités, le calcul du salaire et l'affichage des coordonées de la personne
+
+2 Du point de vue du principe SRP rien ne change, la classe a toujours deux résponsabilités
+
+3 Du point de vus de SRP cela ne change toujours rien, la classe à toujours une fonctionnalité de calcul et une fonctionnalité de stockage des données
+
+4 Pour respecter SRP il faut mettre dans la classe employé uniquement l'affichage des coordonées et créer une classe dédiée au calcul des salaires
+
